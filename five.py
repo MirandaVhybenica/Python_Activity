@@ -1,4 +1,4 @@
-students_scores = [('John', 85), ('Maria', 62), ('Tom', 76), ('Sarah', 90)]
+students_scores = [('John', 85), ('Maria', 95), ('Tom', 76), ('Sarah', 90)]
 
 lowest_student = students_scores[0][0]
 lowest_score = students_scores[0][1]
